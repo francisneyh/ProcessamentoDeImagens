@@ -1,4 +1,4 @@
-# ProcessamentoDeImagens
+# Processamento De Imagens
 
 Código programado para a 2ª Avaliação Formativa do 2º bimestre de Processamento de Imagens do curso de Ciência da Computação.
 
